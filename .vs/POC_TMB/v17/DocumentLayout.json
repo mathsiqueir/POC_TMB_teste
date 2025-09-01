@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\onebitcode2\\c#\\poc_tmb\\poc_tmb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\onebitcode2\\c#\\poc_tmb\\poc_tmb\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\onebitcode2\\c#\\poc_tmb\\poc_tmb\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\onebitcode2\\c#\\poc_tmb\\poc_tmb\\dto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:dto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\onebitcode2\\c#\\poc_tmb\\poc_tmb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Dto\\UpdateOrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UpdateOrderDto.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Dto\\UpdateOrderDto.cs",
+              "RelativeToolTip": "Dto\\UpdateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:47:55.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Dto\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Dto\\CreateOrderDto.cs",
+              "RelativeToolTip": "Dto\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:39:23.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:14:16.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:54:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:57:22.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

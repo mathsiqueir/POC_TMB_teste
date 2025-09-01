@@ -1,0 +1,6 @@
+@POC_TMB_HostAddress = http://localhost:5078
+
+GET {{POC_TMB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
