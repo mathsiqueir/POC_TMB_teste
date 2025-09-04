@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POC_TMB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+211cf795916fb37f016dc607a61c36ccbff3b1f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("POC_TMB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POC_TMB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

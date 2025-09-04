@@ -42,14 +42,24 @@ namespace POC_TMB.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<OrderModel>> CreateOrder([FromBody] CreateOrderDto createOrderDto)
+        public ActionResult<OrderModel> CreateOrder([FromBody] CreateOrderDto createOrderDto)
         {
             try
             {
-                var order = new OrderModel { }
-            catch(Exception ex) 
+                var order = new OrderModel
+                {
+                    Cliente = createOrderDto.Cliente,
+                    Produto = createOrderDto.Produto,
+                    Valor = createOrderDto.Valor,
+                    Status = createOrderDto.Status = "pendente"
+                };
+                _context.Orders.Add(order);
+                _context.SaveChanges();
+                return order;
+                }
+            catch (Exception ex)
             {
-                return StatusCode(500, 
+                return StatusCode(500,
                     new { message = "erro interno ao criar pedido", error = ex.Message });
             }
         }

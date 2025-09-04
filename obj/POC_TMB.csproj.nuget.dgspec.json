@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\POC_TMB.csproj": {}
+    "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\POC_TMB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\POC_TMB.csproj": {
+    "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\POC_TMB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\POC_TMB.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\POC_TMB.csproj",
         "projectName": "POC_TMB",
-        "projectPath": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\POC_TMB.csproj",
+        "projectPath": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\POC_TMB.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Documents\\OneBitCode2\\C#\\POC_TMB\\POC_TMB\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,16 @@
               "target": "Package",
               "version": "[9.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -88,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
