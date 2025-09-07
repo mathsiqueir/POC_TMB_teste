@@ -7,10 +7,10 @@ namespace POC_TMB.Models
         public Guid Id { get; set; } = Guid.NewGuid();
         [Required]
         [StringLength(100)]
-        public string Cliente { get; set; }
+        public string? Cliente { get; set; }
         [Required]
         [StringLength(100)]
-        public string Produto { get; set; }
+        public string? Produto { get; set; }
 
         [Required]
         [Range(0.01, double.MaxValue, ErrorMessage = "O valor deve ser maior que zero")]

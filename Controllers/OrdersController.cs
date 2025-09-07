@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using POC_TMB.Data;
 using POC_TMB.Dto;
 using POC_TMB.Models;
+using POC_TMB.Services
 
 namespace POC_TMB.Controllers
 {
@@ -11,57 +12,27 @@ namespace POC_TMB.Controllers
     [ApiController]
     public class OrdersController : ControllerBase
     {
-        private AppDbContext _context;
+        private readonly IOrderInterface _orderInterface;
 
-        public OrdersController(AppDbContext context)
+        public OrdersController(IOrderInterface orderInterface)
         {
-            _context = context;
+            _orderInterface = orderInterface;
         }
 
         [HttpGet]
         
 
-        [HttpGet]
+        [HttpGet("order/{id}")]
         public async Task<ActionResult<IEnumerable<OrderModel>>> GetOrderById(Guid id)
         {
-            try
-            {
-                var order = await _context.Orders.FirstOrDefaultAsync(o => o.Id == id);
-
-                if (order == null)
-                {
-                    return NotFound("Pedido não encontrado");
-                }
-                return Ok(order);
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, 
-                    new { message = "erro interno do servidor", error = ex.Message });
-            }
+            var orders = await _orderInterface.GetOrderByIdAsync(id);
+            return Ok(orders);
         }
 
-        [HttpPost]
-        public ActionResult<OrderModel> CreateOrder([FromBody] CreateOrderDto createOrderDto)
+        [HttpPost(" ")]
+        public async ActionResult<OrderModel> CreateOrder([FromBody] CreateOrderDto createOrderDto)
         {
-            try
-            {
-                var order = new OrderModel
-                {
-                    Cliente = createOrderDto.Cliente,
-                    Produto = createOrderDto.Produto,
-                    Valor = createOrderDto.Valor,
-                    Status = createOrderDto.Status = "pendente"
-                };
-                _context.Orders.Add(order);
-                _context.SaveChanges();
-                return order;
-                }
-            catch (Exception ex)
-            {
-                return StatusCode(500,
-                    new { message = "erro interno ao criar pedido", error = ex.Message });
-            }
+            
         }
     }
 }
