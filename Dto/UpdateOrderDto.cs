@@ -13,6 +13,6 @@ namespace POC_TMB.Dto
         [Range(0.01, 9999999, ErrorMessage = "O valor deve ser maior que zero.")]
         public decimal Valor { get; set; }
 
-        public string Status { get; set; } = string.Empty;
+        public string Status { get; set; }
     }
 }

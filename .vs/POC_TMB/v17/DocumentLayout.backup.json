@@ -3,35 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\dto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:dto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|c:\\users\\mathe\\documents\\poc_tmb_teste\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801D2646-7F26-40DD-8F69-3529B7617A29}|POC_TMB.csproj|solutionrelative:dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,99 +39,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Models\\OrderModel.cs",
-              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Models\\OrderModel.cs",
-              "RelativeToolTip": "Models\\OrderModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T00:49:52.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAALYSAAAAAAAAAAAowNgSAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-07T00:24:56.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T23:40:11.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Dto\\CreateOrderDto.cs",
-              "RelativeDocumentMoniker": "Dto\\CreateOrderDto.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Dto\\CreateOrderDto.cs",
-              "RelativeToolTip": "Dto\\CreateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T21:39:23.597Z"
+              "WhenOpened": "2025-09-09T22:48:35.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Services\\OrderService.cs",
-              "RelativeToolTip": "Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:14:16.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T19:54:58.15Z"
+              "WhenOpened": "2025-09-09T22:13:03.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Dto\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Dto\\CreateOrderDto.cs",
+              "RelativeToolTip": "Dto\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:05:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T19:57:22.82Z"
+              "WhenOpened": "2025-09-07T01:30:31.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Dto\\UpdateOrderDto.cs",
-              "RelativeDocumentMoniker": "Dto\\UpdateOrderDto.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Dto\\UpdateOrderDto.cs",
-              "RelativeToolTip": "Dto\\UpdateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\POC_TMB_teste\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T21:47:55.305Z"
+              "WhenOpened": "2025-08-28T00:14:16.738Z",
+              "EditorCaption": ""
             }
           ]
         }

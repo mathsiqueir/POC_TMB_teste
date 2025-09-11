@@ -308,3 +308,4 @@ C:\Users\mathe\Documents\POC_TMB_teste\bin\Debug\net8.0\POC_TMB.runtimeconfig.js
 C:\Users\mathe\Documents\POC_TMB_teste\bin\Debug\net8.0\POC_TMB.pdb
 C:\Users\mathe\Documents\POC_TMB_teste\obj\Debug\net8.0\POC_TMB.genruntimeconfig.cache
 C:\Users\mathe\Documents\POC_TMB_teste\obj\Debug\net8.0\ref\POC_TMB.dll
+C:\Users\mathe\Documents\POC_TMB_teste\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

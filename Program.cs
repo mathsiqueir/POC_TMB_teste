@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using POC_TMB.Data;
+using POC_TMB.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
+builder.Services.AddScoped<IOrderInterface, OrderService>();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {

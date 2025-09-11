@@ -23,8 +23,11 @@ namespace POC_TMB.Services
         {
             try
             {
-                var orders = await _context.Orders.OrderByDescending(o => o.DataCriacao).ToListAsync();
-
+                var orders = await _context.Orders.ToListAsync();
+                if (orders == null)
+                {
+                    throw new KeyNotFoundException("Nenhum pedido foi adicionado a base");
+                }
                 return orders;
             }
             catch (Exception ex)
@@ -86,7 +89,8 @@ namespace POC_TMB.Services
                 var order = await _context.Orders.FindAsync(id);
                 if (order == null)
                 {
-                    return null;
+                    throw new KeyNotFoundException($"Nenhum pedido com o id:{id} e nome " +
+                        $"{orderDto.Cliente} foi encontrado na base");
                 }
 
                 // Atualizar apenas campos que não estão vazios/nulos

@@ -12,8 +12,8 @@ using POC_TMB.Data;
 namespace POC_TMB.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250904000822_inicial")]
-    partial class inicial
+    [Migration("20250909221217_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -57,6 +57,26 @@ namespace POC_TMB.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Orders");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("8a7b6f5c-0e3d-4c1b-9d7a-1b2c3d4e5f6a"),
+                            Cliente = "Matheus Siqueira",
+                            DataCriacao = new DateTime(2024, 1, 1, 10, 0, 0, 0, DateTimeKind.Utc),
+                            Produto = "Teste Tmb",
+                            Status = "Pendente",
+                            Valor = 1000m
+                        },
+                        new
+                        {
+                            Id = new Guid("f4a3e2d1-c0b9-4a8e-9d6c-5b4a3c2d1e0f"),
+                            Cliente = "Julia Gomyde",
+                            DataCriacao = new DateTime(2024, 1, 2, 14, 30, 0, 0, DateTimeKind.Utc),
+                            Produto = "Teste Tmb",
+                            Status = "Concluido",
+                            Valor = 1500m
+                        });
                 });
 #pragma warning restore 612, 618
         }
